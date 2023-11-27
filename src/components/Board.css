@@ -1,0 +1,9 @@
+.status {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.board-row {
+   display: flex;
+   flex-direction: row;
+}
